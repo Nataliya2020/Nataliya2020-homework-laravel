@@ -1,0 +1,16 @@
+{
+    "name": "nataliya/laravel",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Nataliya\\Laravel\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Nataliya",
+            "email": "nataliya.d.nataliya@gmail.com"
+        }
+    ],
+    "require": {}
+}
